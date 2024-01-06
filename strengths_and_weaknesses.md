@@ -1,6 +1,6 @@
-#Strength
+# Strength
 - fast and efficient
 - popular
-#Weaknesses
+# Weaknesses
 - can't handle big files
 - steep learning curve
